@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    background-color: lightgreen;
+    overflow: hidden;
+    text-align: center;
+}
+
+#car-canvas{
+    background-color: darkgray;
+}
+
